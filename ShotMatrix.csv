@@ -36,5 +36,5 @@ ShotNumber,Date,Time,Tamb,Fuel,Oxidizer,P0f,P0ox,mdot_target,FuelSet,OxSet,mdotf
 139,2025-04-04,13:18:51,294,C2H4,O2,250,400,60 g/s,-9,Red 1,13.5,46.5,60,LE,Radial Discrete,Offset injector,5mm,No information entered by user,"High-speed camera not set up, in case of window blow out."
 140,2025-04-04,14:59:09,294,C2H4,O2,250,400,60 g/s,-9,Red 1,13.5,46.5,60,LE,Radial Discrete,Offset injector,5mm,Misfire,No visible combustion
 141,2025-04-04,16:05:48,294,C2H4,O2,250,400,60 g/s,-9,Red 1,13.5,46.5,60,LE,Radial Discrete,Offset injector,5mm,"2 wave, clapping, maybe 1 wave at end",All is well
-142,2025-04-09,16:59:13,294,C2H4,O2,300,400,75,-9,Red 3.5,17,58,75,LE,Radial Discrete,Backwards injector,5mm,1 wave to clapping,No information entered by user
-143,2025-04-09,17:40:39,294,C2H4,O2,400,600,100,-9,Red 2.25,22.5,77.5,100.0,LE,Radial Discrete,Backwards injector,5mm,"1 wave, after a certain time",Engine heated to 55C
+142,2025-04-09,16:59:13,294,C2H4,O2,300,400,75,-9,Red 3.5,17,58,75,LE,Radial Discrete,Backwards injector,7mm,1 wave to clapping,No information entered by user
+143,2025-04-09,17:40:39,294,C2H4,O2,400,600,100,-9,Red 2.25,22.5,77.5,100,LE,Radial Discrete,Backwards injector,7mm,"1 wave, after a certain time",Engine heated to 55C
