@@ -40,3 +40,10 @@ ShotNumber,Date,Time,Tamb,Fuel,Oxidizer,P0f,P0ox,mdot_target,FuelSet,OxSet,mdotf
 143,2025-04-09,17:40:39,294,C2H4,O2,400,600,100,-9,Red 2.25,22.5,77.5,100,LE,Radial Discrete,Backwards injector,7mm,"1 wave, after a certain time",Engine heated to 55C
 144,2025-04-11,16:22:03,294,C2H4,O2,400,700,125,-6.5,Red 1.75,97,28,125.0,LE,Radial Discrete,Backwards injector,7mm,One wave,No information entered by user
 145,2025-04-11,16:58:40,294,C2H4,O2,400,800,150,-4,-2,34,116,150.0,LE,Radial Discrete,Backwards injector,7mm,2 waves,No information entered by user
+146,2025-04-15,11:19:25,294,C2H4,O2,250,400,60,-9,Blue 1,13.5,46.5,60.0,LE,Radial Discrete,Backwards injector,7mm,"Mostly nothing, stable 1 wave at very end",Same whistle as last time
+147,2025-04-15,14:35:51,294,C2H4,O2,300,400,75,-9,Blue 3.5,17,58,75.0,LE,Radial Discrete,Backwards injector,7mm,"Mostly nothing, stable 1 wave at very end",No information entered by user
+148,2025-04-15,14:57:29,294,C2H4,O2,400,400,100,-9,Blue 5.25,22.5,77.5,100.0,LE,Radial Discrete,Backwards injector,7mm,"1 wave, some clapping",Since returning: scopes may have been set backward. Fixed for this shot
+149,2025-04-15,15:25:28,294,C2H4,O2,400,400,125,-8.5,Blue 5.75,28,97,125.0,LE,Radial Discrete,Backwards injector,7mm,1 wave,No information entered by user
+150,2025-04-15,15:37:36,294,C2H4,O2,400,400,150,-8,Blue 6.25,34,116,150.0,LE,Radial Discrete,Backwards injector,7mm,1 wave,No information entered by user
+151,2025-04-15,15:59:07,294,C2H4,O2,400,400,175,-7.5,Blue 6.5,39.5,135,174.5,LE,Radial Discrete,Backwards injector,7mm,1 wave,No information entered by user
+152,2025-04-15,16:29:07,294,C2H4,O2,400,400,200,-4.25,Blue 7,45,155,200.0,LE,Radial Discrete,Backwards injector,7mm,1 wave,No information entered by user
