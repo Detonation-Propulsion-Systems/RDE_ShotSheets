@@ -71,3 +71,25 @@ ShotNumber,Date,Time,Tamb,Fuel,Oxidizer,P0f,P0ox,mdot_target,FuelSet,OxSet,mdotf
 174,2025-05-05,17:10:49,294,C2H4,O2,250,400,60,-9,Blue 1,13.5,46.5,60,HEI,Radial Discrete,Straight injector,7mm,Misfire again,Moving on
 175,2025-05-06,14:43:02,294,C2H4,O2,400,400,200,-4.25,Blue 7,45,155,200,HEI,Radial Discrete,Straight injector,7mm,No flow,Shop air off
 176,2025-05-06,16:44:18,294,C2H4,O2,400,400,100,-9,Blue 5.25,22.5,77.5,100,HEI,Radial Discrete,Straight injector,7mm,Misfire,Delays still wrong for HEI
+177,2025-05-07,14:35:14,294,C2H4,O2,400,400,100,-9,Blue 5.25,22.5,77.5,100,HEI,Radial Discrete,Straight injector,7mm,2 waves,240ms SD
+178,2025-05-07,14:44:15,294,C2H4,O2,400,400,125,-8.5,Blue 5.75,28,97,125,HEI,Radial Discrete,Straight injector,7mm,2 waves,200ms SD
+179,2025-05-07,15:20:23,294,C2H4,O2,400,400,125,-8.5,Blue 5.75,28,97,125,HEI,Radial Discrete,Straight injector,7mm,2 waves,200ms SD
+180,2025-05-07,15:42:33,294,C2H4,O2,400,400,150,-8,6.25,34,116,150,HEI,Radial Discrete,Straight injector,7mm,2 waves,200ms SD. 107.8dB
+181,2025-05-07,16:04:26,294,C2H4,O2,400,400,175,7.5,6.5,34,116,150,HEI,Radial Discrete,Straight injector,7mm,2 waves,190ms SD. 89 dB
+182,2025-05-07,16:23:34,294,C2H4,O2,400,400,200,-4.25,Blue 7,45,145,190,HEI,Radial Discrete,Straight injector,7mm,2 waves,180ms SD. 
+183,2025-05-07,16:31:32,294,C2H4,O2,400,400,125,-8.75,Blue 5.75,23.6,101.4,125,HEI,Radial Discrete,Straight injector,7mm,2 waves,Phi = 0.8. 200 SD. 108.4dB
+184,2025-05-08,11:33:45,294,C2H4,O2,400,400,125,-8.5,Blue 5.75,30.4,94.6,125,HEI,Radial Discrete,Straight injector,7mm,2 waves,Phi = 0.9. 200ms SD. 107.7dB
+185,2025-05-08,12:08:34,294,C2H4,O2,400,400,125,-8.25,Blue 5.75,30.4,94.6,125,HEI,Radial Discrete,Straight injector,7mm,2 waves,Phi = 1.1. 200ms SD. 107.2dB
+186,2025-05-08,12:10:06,294,C2H4,O2,400,400,125,-8,Blue 5.75,32.4,92.6,125,HEI,Radial Discrete,Straight injector,7mm,2 waves,Phi = 1.2 200ms SD.  107.1 dB
+187,2025-05-08,12:31:35,294,C2H4,O2,300,400,75,-9,Blue 3.5,17,58,75,HEI,Radial Discrete,Straight injector,7mm,Clapping,250ms SD
+188,2025-05-08,12:39:28,294,C2H4,O2,250,400,60,-9,Blue 1,13.5,46.5,60,HEI,Radial Discrete,Straight injector,7mm,Misfire,275ms SD
+189,2025-05-08,12:57:16,294,C2H4,O2,250,400,60,-9,Blue 1,13.5,46.5,60,HEI,Radial Discrete,Straight injector,7mm,Misfire,300ms SD
+190,2025-05-09,17:19:13,294,C2H4,O2,300,400,75,-9,Blue 3.5,17,58,75,LEI,MK2,Straight injector,7mm,"Fire, no detonation",Fuel .153in O2 .1603
+191,2025-05-09,17:20:57,294,C2H4,O2,400,400,100,-9,Blue 5.25,22.5,77.5,100,LEI,MK2,Straight injector,7mm,"Fire, no detonation",Fuel .153in O2 .1604
+192,2025-05-09,17:34:31,294,C2H4,O2,400,400,150,-8,Blue 6.25,34,116,150,LEI,MK2,Straight injector,7mm,"Fire, no detonation",Fuel .153in O2 .1605
+193,2025-05-09,17:54:13,294,C2H4,O2,400,400,200,-4.25,Blue 7,45,155,200,LEI,MK2,Straight injector,7mm,"Fire, no detonation",Fuel .153in O2 .1606
+194,2025-05-10,15:13:28,294,C2H4,O2,300,400,75,-9,Blue 3.5,17,58,75.0,LEI,MK2,MK2 60 degrees,7mm,"Fire, no high speed camera",Fuel .173in. O2 .181in
+195,2025-05-10,16:23:26,294,C2H4,O2,300,400,75,-9,Blue 3.5,17,58,75.0,LEI,MK2,MK2 60 degrees,7mm,"Fire, no detonation",Repeat of previous shot
+196,2025-05-10,16:38:30,294,C2H4,O2,400,400,100,-9,Blue 5.25,22.5,77.5,100.0,LEI,MK2,MK2 60 degrees,7mm,"Clapping early, mostly just fire",Same spacers as 194
+197,2025-05-10,17:00:31,294,C2H4,O2,400,400,150,-8,Blue 6.25,34,116,150.0,LEI,MK2,MK2 60 degrees,7mm,"Fire, no detonation",Same spacers as 194
+198,2025-05-10,17:13:43,294,C2H4,O2,400,400,200,-4.25,Blue 7,45,155,200.0,LEI,MK2,MK2 60 degrees,7mm,"Fire, no detonation",Same spacers as 194
